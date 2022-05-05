@@ -14,6 +14,10 @@
  rm GeoLite2-Country-CSV.zip
  
  mv GeoLite2* geocsv
+ 
+## Cpanminus required
+
+ cpanm --installdeps .
 
 ## Edit personal network masks
 
