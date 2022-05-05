@@ -1,6 +1,8 @@
 
 # GeoIP2-Support
 
+ Compile and edit mmdb database
+
 ## Get maxmind CSV archive
 
  cd db
