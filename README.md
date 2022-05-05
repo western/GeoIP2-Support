@@ -15,7 +15,7 @@
  
  mv GeoLite2* geocsv
  
-## Cpanminus required
+## Cpanminus require
 
  cpanm --installdeps .
 
@@ -23,7 +23,7 @@
 
  Edit file db/GeoLite2-Country-Blocks-IPv4-My.csv
  
- This networks merged with original database with your preferences
+ This records will merge with original database
  
 ## Compile
 
