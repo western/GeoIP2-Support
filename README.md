@@ -19,9 +19,11 @@
 
  cpanm --installdeps .
 
-## Edit personal network masks
+## Add/Edit personal network masks
 
  Edit file db/GeoLite2-Country-Blocks-IPv4-My.csv
+ 
+ This networks merged with original database with your preferences
  
 ## Compile
 
